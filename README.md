@@ -17,6 +17,8 @@ this is a hello repository
 > blockquote
 > b2
 > b3
+> int a = b;
+> String a = "hello"
 > 
 
 
