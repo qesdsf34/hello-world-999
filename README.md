@@ -7,8 +7,8 @@ this is a hello repository
 
 *bbb*
 
-#Head one
-##Head two
+# Head one
+## Head two
 ### head three
 
 
