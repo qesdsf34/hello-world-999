@@ -46,6 +46,12 @@ this is a hello repository
 
 
 
+[baidu](https://www.baidu.com)
+
+![alt text]
+
+
+
 
 
 
