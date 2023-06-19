@@ -12,6 +12,13 @@ this is a hello repository
 ### head three
 **bold text**
 
+*italicized text*
+
+> blockquote
+> b2
+> b3
+> 
+
 
 
 
