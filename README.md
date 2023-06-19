@@ -41,6 +41,10 @@ this is a hello repository
 
 `code`
 
+`int a = 2`
+`String b = "aaa"`
+
+
 
 
 
