@@ -48,7 +48,7 @@ this is a hello repository
 
 [baidu](https://www.baidu.com)
 
-![alt text]
+![alt text](https://img0.baidu.com/it/u=115842788,1762762198&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500)
 
 
 
