@@ -52,7 +52,10 @@ this is a hello repository
 
 ![picturc cat](https://img2.baidu.com/it/u=1071869811,1521105274&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500)
 
-
+| book |price|
+|--------------|---------------|
+|python | java |
+| math | science|
 
 
 
