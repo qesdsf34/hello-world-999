@@ -68,7 +68,11 @@ this is a hello repository
 }
 ```
 
+```
+int i = 0;
+String b = "string"
 
+```
 
 
 
