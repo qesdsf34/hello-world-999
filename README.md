@@ -60,6 +60,16 @@ this is a hello repository
 
 
 
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+
+
 
 
 
